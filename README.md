@@ -1,1 +1,1 @@
-Tez (Tek Örneklem Paramaetrik Olmayan İstatisitiksel Testler için VBA Makroosu)
+Tez (Tek Örneklem Paramaetrik Olmayan İstatisitiksel Testler için VBA Makrosu)
